@@ -1,7 +1,7 @@
 import { FiArrowUpRight } from "react-icons/fi";
 import banner from '../assets/logo.png'
 import goferie from '../assets/goferie_logo.png'
-import afrobots from '../assets/afrobots_logo.png'
+import afrobots from '../assets/afrobots_logo.jpg'
 import my_gym from '../assets/my_gym.png'
 import ethio_amba from '../assets/ethio_amba.png'
 import fleet_ease from '../assets/fleet_ease.png'
