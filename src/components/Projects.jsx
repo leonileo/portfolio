@@ -1,5 +1,7 @@
 import { FiArrowUpRight } from "react-icons/fi";
 import banner from '../assets/logo.png'
+import goferie from '../assets/goferie_logo.png'
+import afrobots from '../assets/afrobots_logo.png'
 import my_gym from '../assets/my_gym.png'
 import ethio_amba from '../assets/ethio_amba.png'
 import fleet_ease from '../assets/fleet_ease.png'
@@ -11,6 +13,8 @@ const Projects = () => {
 
   // projects
   const projects = [
+    {banner: goferie, name: "Goferie hair transplant - Web app", tags: ["web app", "Booking"], link: "https://goferie.com/"},
+    {banner: afrobots, name: "Afrobots - Company website", tags: ["website"], link: "https://afrobotsengineering.com/"},
     {banner: my_gym, name: "MY GYM - Full Stack Web App", tags: ["mvp", "web app", "fitness"], link: "https://my-gym.onrender.com"},
     {banner: mia, name: "Restaurant web app", tags: ["mvp", "web app", "restaurant"], link: "https://rwa-jg4r.onrender.com/"},
     {banner: warka, name: "Warka", tags: ["e-commerce", "web app"], link: "https://warka.onrender.com/"},
